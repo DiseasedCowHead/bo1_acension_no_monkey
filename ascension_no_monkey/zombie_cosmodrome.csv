@@ -1,0 +1,12 @@
+ignore,code_post_gfx
+ignore,common
+rawfile,maps/zombie_cosmodrome.gsc
+rawfile,maps/zombie_cosmodrome_anim.gsc
+rawfile,maps/zombie_cosmodrome_amb.gsc
+rawfile,maps/zombie_cosmodrome_fx.gsc
+sound,common,zombie_cosmodrome,all_sp
+sound,generic,zombie_cosmodrome,all_sp
+sound,voiceovers,zombie_cosmodrome,all_sp
+sound,requests,zombie_cosmodrome,all_sp
+xmodel,zombie_wolf
+include,zombiemode_ai_dogs
