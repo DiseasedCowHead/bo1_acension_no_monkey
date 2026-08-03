@@ -1,5 +1,5 @@
 # bo1_acension_no_monkey
-Removes monkeys from Call of Duty Black Ops 1 zombies map Ascension
+Removes monkeys from Call of Duty Black Ops 1 zombies map Ascension and replaces them with dog rounds.
 
 Add the folder 'ascension_no_monkey' to your black ops mods folder.
 
